@@ -2,7 +2,7 @@
 <!--- - 👀 I’m interested in ... --->
 - 🌱 I’m currently studying software engineering at alx Holberton School.
 - 💞️ I’m looking forward to collaborate on any project you have in mind.
-- 📫 alexanderikpeama@gmail.com
+- 📫  *alexanderikpeama@gmail.com*
 
 <!---
 alexUd01/alexUd01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
