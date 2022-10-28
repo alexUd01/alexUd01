@@ -1,7 +1,7 @@
 - 👋 Hi, **I’m Alexander**
 <!--- - 👀 I’m interested in ... --->
 - 🌱 I’m currently studying software engineering at alx Holberton School.
-- 💞️ I’m looking forward to collaborate on any project you have in mind.
+- 💞️ I’m looking forward to collaborate with you on any project you have in mind.
 - 📫  **alexanderikpeama@gmail.com**
 
 <!---
